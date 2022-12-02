@@ -101,7 +101,7 @@ header {
 	
 	text-align: center;
 	position: relative;
-	padding-bottom: 30px;
+	padding-bottom: 27px;
 }
 
 header img {
@@ -116,13 +116,18 @@ header img {
 }
 
 h1 {
-	font-family: helvetica, arial, sans;
 	display: block;
+	margin-top: -9px;
+
+	font-family: helvetica, arial, sans;
 	font-size: 34px;
 }
 
 h2 {
+	margin-top: -6px;
+
 	font-size: 19px;
+	font-weight: 400;
 }
 
 ul {
