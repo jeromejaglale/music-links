@@ -165,7 +165,7 @@ ul li a {
 }
 
 ul li a:hover {
-	background-color: hsl(0deg 0% 0% / 0.35);
+	background-color: hsl(0deg 0% 100% / 0.35);
 }
 
 ul li a img {
